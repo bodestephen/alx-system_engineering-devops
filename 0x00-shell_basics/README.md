@@ -1,1 +1,1 @@
-Read the Manual.
+shell basics
